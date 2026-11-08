@@ -22,6 +22,7 @@ That's it. Edit and publish in Offer GPS and this site updates within a minute.
 | --- | --- |
 | `/` One-sheeter | Use it → One-Sheeter → Publish |
 | `/trial` 7-day paid trial | Use it → Paid Trial → Put it on my site |
+| `/join` free Skool community | Use it → Skool → Put it on my site |
 
 ## Settings
 

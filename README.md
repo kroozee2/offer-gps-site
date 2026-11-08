@@ -1,6 +1,6 @@
 # Offer GPS Site
 
-Your offer page on your own website, built from your **Offer GPS** in the 7-Figure CEO AI Mastermind portal.
+Your offer pages on your own website, built from your **Offer GPS** in the 7-Figure CEO AI Mastermind portal.
 
 - **Your Vercel**: the site runs on your own free Vercel account.
 - **Your Supabase**: page views and button clicks are saved in your own database (`site_events`).
@@ -15,6 +15,13 @@ Do it from the portal: **Offer GPS → Use it → One-Sheeter → Put it on your
 3. Copy your live link back into the portal.
 
 That's it. Edit and publish in Offer GPS and this site updates within a minute.
+
+## Your pages
+
+| Page | Turn it on in Offer GPS |
+| --- | --- |
+| `/` One-sheeter | Use it → One-Sheeter → Publish |
+| `/trial` 7-day paid trial | Use it → Paid Trial → Put it on my site |
 
 ## Settings
 
